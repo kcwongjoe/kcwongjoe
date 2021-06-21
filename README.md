@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joe Wong
 - 👀 I’m interested in electronic design, software development and mathematics.
-- 🌱 I’m currently learning software testing.
 - 🏢 I’m looking for a software position in UK.
 - 📫 kcwong.joe@gmail.com
 
